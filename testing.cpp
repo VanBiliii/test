@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
+viod test01()
 {
     cout << "Hello Vscode" << endl;
     return 0;
